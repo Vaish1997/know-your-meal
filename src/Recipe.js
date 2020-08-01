@@ -23,7 +23,7 @@ const Recipe = ({title, calories,servings,image,healthLabels,dietLabels,cautions
                 { title }
             </h1>
     <p><strong>Servings: </strong>{ servings }</p>
-            <p> <strong>Calories:</strong> {calories}</p>
+            <p> <strong>Calories Per Serving:</strong> {calories.toFixed()}</p>
             <p><strong>Health Labels</strong></p>
             <ol>
             {healthLabels.map(
