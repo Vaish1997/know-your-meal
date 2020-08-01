@@ -68,7 +68,7 @@ const Recipe = ({title, calories,servings,image,healthLabels,dietLabels,cautions
             </ol>
         
             <img src= {image} alt= ""></img>
-        <Collapsible trigger = "View Ingredients">
+        <Collapsible trigger = "View Ingredients +">
         <h3>Ingredients</h3>
         <ul>
             {
@@ -77,7 +77,7 @@ const Recipe = ({title, calories,servings,image,healthLabels,dietLabels,cautions
                 ))}
         </ul>
         </Collapsible>
-        <Collapsible trigger = 'View Nutrition Info...'>
+        <Collapsible trigger = 'View Nutrition Info... +'>
         <table className = 'darkTable'>
             <thead>
                 <tr>
