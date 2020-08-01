@@ -10,7 +10,7 @@ const Recipe = ({title, calories,servings,image,healthLabels,dietLabels,cautions
            
         nutritionInfo.push({    
         nutritionLabel: nutrients[key].label,
-        quantity: nutrients[key].quantity,
+        quantity: Number(nutrients[key].quantity).toFixed(2),
         unit: nutrients[key].unit
         
         })
