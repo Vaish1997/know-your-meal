@@ -37,14 +37,22 @@ const Recipe = ({title, calories,servings,image,healthLabels,dietLabels,cautions
             </ol>
             <p><strong>Diet Labels</strong></p>
             <ol>
-            {dietLabels.map(
+           
+            
+                {
+                    dietLabels.length > 0 ? 
+                    
+            dietLabels.map(
                 dietLabel =>
                  (
                  <li>{dietLabel}</li>
                  )
-            )
+            ) : <p><strong>Diet Labels not available</strong></p>
+                 }
+                
+                
 
-            }
+            
             </ol>
 
             <p><strong>Cautions</strong></p>
