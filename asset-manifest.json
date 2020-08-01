@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/know-your-meal/static/css/main.6f02e31d.chunk.css",
-    "main.js": "/know-your-meal/static/js/main.1775d300.chunk.js",
-    "main.js.map": "/know-your-meal/static/js/main.1775d300.chunk.js.map",
+    "main.js": "/know-your-meal/static/js/main.3bdd6aaf.chunk.js",
+    "main.js.map": "/know-your-meal/static/js/main.3bdd6aaf.chunk.js.map",
     "runtime-main.js": "/know-your-meal/static/js/runtime-main.ff333199.js",
     "runtime-main.js.map": "/know-your-meal/static/js/runtime-main.ff333199.js.map",
     "static/js/2.df755e86.chunk.js": "/know-your-meal/static/js/2.df755e86.chunk.js",
     "static/js/2.df755e86.chunk.js.map": "/know-your-meal/static/js/2.df755e86.chunk.js.map",
     "index.html": "/know-your-meal/index.html",
-    "precache-manifest.bfdccb1894dd6f6d8c5f03b5362d27ac.js": "/know-your-meal/precache-manifest.bfdccb1894dd6f6d8c5f03b5362d27ac.js",
+    "precache-manifest.d0293210b4602e3e735eee823fd9bcd6.js": "/know-your-meal/precache-manifest.d0293210b4602e3e735eee823fd9bcd6.js",
     "service-worker.js": "/know-your-meal/service-worker.js",
     "static/css/main.6f02e31d.chunk.css.map": "/know-your-meal/static/css/main.6f02e31d.chunk.css.map",
     "static/js/2.df755e86.chunk.js.LICENSE.txt": "/know-your-meal/static/js/2.df755e86.chunk.js.LICENSE.txt"
@@ -17,6 +17,6 @@
     "static/js/runtime-main.ff333199.js",
     "static/js/2.df755e86.chunk.js",
     "static/css/main.6f02e31d.chunk.css",
-    "static/js/main.1775d300.chunk.js"
+    "static/js/main.3bdd6aaf.chunk.js"
   ]
 }
