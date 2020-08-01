@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/know-your-meal/static/css/main.6f02e31d.chunk.css",
+    "main.js": "/know-your-meal/static/js/main.428e5e2a.chunk.js",
+    "main.js.map": "/know-your-meal/static/js/main.428e5e2a.chunk.js.map",
+    "runtime-main.js": "/know-your-meal/static/js/runtime-main.ff333199.js",
+    "runtime-main.js.map": "/know-your-meal/static/js/runtime-main.ff333199.js.map",
+    "static/js/2.df755e86.chunk.js": "/know-your-meal/static/js/2.df755e86.chunk.js",
+    "static/js/2.df755e86.chunk.js.map": "/know-your-meal/static/js/2.df755e86.chunk.js.map",
+    "index.html": "/know-your-meal/index.html",
+    "precache-manifest.cd5fe916dd68e6103de27860be31cb2b.js": "/know-your-meal/precache-manifest.cd5fe916dd68e6103de27860be31cb2b.js",
+    "service-worker.js": "/know-your-meal/service-worker.js",
+    "static/css/main.6f02e31d.chunk.css.map": "/know-your-meal/static/css/main.6f02e31d.chunk.css.map",
+    "static/js/2.df755e86.chunk.js.LICENSE.txt": "/know-your-meal/static/js/2.df755e86.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.ff333199.js",
+    "static/js/2.df755e86.chunk.js",
+    "static/css/main.6f02e31d.chunk.css",
+    "static/js/main.428e5e2a.chunk.js"
+  ]
+}
