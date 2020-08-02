@@ -35,7 +35,7 @@ const getSearch = e =>{
   return(
     <div className = "App">
       <form className = "search-form" onSubmit = {getSearch}>
-        <input type = "text" className ="search-bar" value = {search} onChange = {updateSearch}></input>
+        <input type = "text" className ="search-bar" value = {search} onChange = {updateSearch} placeholder ="Search for example potato, gluten-free, Balanced etc.."></input>
         <button className = "search-button" type = "submit"> Search </button>
       </form>
       
