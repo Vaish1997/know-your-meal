@@ -1,11 +1,11 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "56169d272bf30483ca8913d8e51f6c58",
+    "revision": "76e74a43ed1ece606963616f0d363c3d",
     "url": "/know-your-meal/index.html"
   },
   {
-    "revision": "32187c05357317ad8184",
-    "url": "/know-your-meal/static/css/main.6f02e31d.chunk.css"
+    "revision": "8839c53a824753f1bb6b",
+    "url": "/know-your-meal/static/css/main.e509b0f1.chunk.css"
   },
   {
     "revision": "57c2b76a8bb2e9fa250a",
@@ -16,7 +16,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/know-your-meal/static/js/2.df755e86.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "32187c05357317ad8184",
+    "revision": "8839c53a824753f1bb6b",
     "url": "/know-your-meal/static/js/main.8200e8fa.chunk.js"
   },
   {
